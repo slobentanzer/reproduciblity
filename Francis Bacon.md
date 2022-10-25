@@ -1,0 +1,3 @@
+Lawyer :(
+Politician :(
+Corrupt :(
