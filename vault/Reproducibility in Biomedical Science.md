@@ -15,8 +15,12 @@
 ### Practicals
 - [[Intro to Git]]
 - [[Biomarkers: a practical look (in R)]]
-- [[Reproducibility in the Digital Age]]
-- [[Test-driven Development]]
 - [[Workflow Management]]
 
-# [[Quick Notes]]
+### Further topics
+- [[Reproducibility in the Digital Age]]
+- [[Ioannidis 2005: Statistical problems of modern biomedicine]]
+- [[Test-driven Development]]
+
+
+### [[Quick Notes]]
